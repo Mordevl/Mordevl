@@ -1,4 +1,4 @@
-<h2 align="Center">Hi My name is David Peña, and I'm a Junior Full-Stack Developer / Systems Engineering student, from Bogotá, Colombia.</h2>
+<h2 align="left">Hi My name is David Peña, and I'm a Junior Full-Stack Developer / Systems Engineering student, from Bogotá, Colombia.</h2>
 
 ###
 
