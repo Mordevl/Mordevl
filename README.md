@@ -46,14 +46,10 @@
   GitHub : https://github.com/mordevl
   Ubicación : Bogotá, Colombia
 ─────────────────────────────────────────────────────
-
-  Automatización de procesos con Google Apps Script,
-  n8n y Python, apoyada en IA para flujos de finanzas
-  y operaciones.
-
-  Frontend : JavaScript · HTML5 · CSS3
-  Backend : Python · Flask · pandas
-  Automatización : Google Apps Script · n8n
+Tecnologías que uso:
+JavaScript · HTML5 · CSS3 · Python · Flask
+pandas · Git · GitHub · Linux · Claude Code
+Google Apps Script · n8n
 ─────────────────────────────────────────────────────
 </pre>
 </div>
