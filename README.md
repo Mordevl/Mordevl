@@ -40,19 +40,19 @@
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██████╔╝███████╗ ╚████╔╝ 
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝ 
 ─────────────────────────────────────────────────────
-  Nombre         : David Peña
-  Rol            : Junior Full-Stack Developer / 
+  Nombre : David Peña
+  Rol : Junior Full-Stack Developer / 
                    Systems Engineering student
-  GitHub         : https://github.com/mordevl
-  Ubicación      : Bogotá, Colombia
+  GitHub : https://github.com/mordevl
+  Ubicación : Bogotá, Colombia
 ─────────────────────────────────────────────────────
 
   Automatización de procesos con Google Apps Script,
   n8n y Python, apoyada en IA para flujos de finanzas
   y operaciones.
 
-  Frontend       : JavaScript · HTML5 · CSS3
-  Backend        : Python · Flask · pandas
+  Frontend : JavaScript · HTML5 · CSS3
+  Backend : Python · Flask · pandas
   Automatización : Google Apps Script · n8n
 ─────────────────────────────────────────────────────
 </pre>
