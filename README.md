@@ -1,4 +1,4 @@
-<h2 align="center">Hi My name is David Peña, and I'm a Junior Full-Stack Developer / Systems Engineering student, from Bogotá, Colombia.</h2>
+<h2 align="center">Hi! My name is David Peña, and I'm a Junior Full-Stack Developer / Systems Engineering student, from Bogotá, Colombia.</h2>
 
 ###
 
@@ -11,7 +11,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
@@ -26,37 +32,30 @@
 
 ###
 
-<div align="center">
+<pre align="center">
+  ███╗   ███╗ ██████╗ ██████╗ ██████╗ ███████╗██╗   ██╗
+  ████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║
+  ██╔████╔██║██║   ██║██████╔╝██║  ██║█████╗  ██║   ██║
+  ██║╚██╔╝██║██║   ██║██╔══██╗██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██║ ╚═╝ ██║╚██████╔╝██║  ██║██████╔╝███████╗ ╚████╔╝
+  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝
 
-<h3><code>mordevl@github ~ $ whoami</code></h3>
+  ─────────────────────────────────────────────────────
+  Nombre     :  David Peña
+  Rol        :  Junior Full-Stack Developer / Systems
+                Engineering student
+  GitHub     :  https://github.com/mordevl
+  Ubicación  :  Bogotá, Colombia
+  ─────────────────────────────────────────────────────
 
-<table>
-<tr>
-<td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=mordevl&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=mordevl&theme=aurora&style=terminal&mode=dark" width="100%" alt="mordevl portrait" />
-</picture></td>
-<td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mordevl&theme=aurora&style=terminal&label=Mordev&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=mordevl&theme=aurora&style=terminal&label=Mordev&mode=dark" width="100%" alt="mordevl wordmark" />
-</picture></td>
-</tr>
-</table>
+  Automatización de procesos con Google Apps Script,
+  n8n y Python, apoyada en IA para flujos de finanzas
+  y operaciones.
 
-<p><b>Junior Full-Stack Developer</b></p>
+  Frontend       : JavaScript · HTML5 · CSS3
+  Backend        : Python · Flask · pandas
+  Automatización : Google Apps Script · n8n
 
-<p><a href="https://github.com/mordevl">GitHub</a></p>
-
-</div>
-
-<div align="center">
-
-<h3><code>mordevl@github ~ $ ./contributions.sh</code></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mordevl&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=mordevl&theme=aurora&style=terminal&mode=dark" width="100%" alt="mordevl heatmap" />
-</picture>
-
-</div>
+  ─────────────────────────────────────────────────────
+</pre>
 
